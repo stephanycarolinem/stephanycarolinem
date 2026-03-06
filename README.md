@@ -1,16 +1,19 @@
-## Hi there 👋
+QA Júnior em desenvolvimento na área de testes de software.
 
-<!--
-**stephanycarolinem/stephanycarolinem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 Áreas de estudo
+- Testes manuais
+- Automação de testes
+- Cypress
+- Robot Framework
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+- Cypress
+- Python
+- MySQL
+- Git
+- Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projeto em destaque
+Automação de testes E2E com Cypress.
+
+🔗 https://github.com/stephanycarolinem/qa-automation-cypress
