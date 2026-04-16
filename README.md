@@ -10,7 +10,7 @@
 
 Sou profissional de Quality Assurance (QA), certificada CTFL (ISTQB), com experiência em validação e análise de dados, garantindo a qualidade, consistência e confiabilidade das informações em sistemas.
 
-Atuo com testes manuais, análise de requisitos e identificação de defeitos, além de estar em evolução na automação de testes Web, API e Mobile utilizando ferramentas como Cypress, Playwright e Robot Framework.
+Atuo com testes manuais, análise de requisitos e identificação de defeitos, com prática em automação de testes Web, API e Mobile utilizando ferramentas como Cypress, Playwright e Robot Framework.
 
 Possuo conhecimento em SQL, Python, testes de API (Postman), BDD e metodologias ágeis, com foco em qualidade, organização e melhoria contínua.
 
