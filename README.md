@@ -18,17 +18,18 @@ Possuo conhecimento em SQL, Python, testes de API (Postman), BDD e metodologias 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge\&logo=playwright\&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-Gherkin-5BA829?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+## 🛠️ Tecnologias e Ferramentas
 
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-Gherkin-5BA829?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-6E57E0?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 📊 Estatísticas
