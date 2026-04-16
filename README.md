@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou profissional de Quality Assurance (QA), certificada CTFL (ISTQB), com experiência em validação e análise de dados, garantindo a qualidade, consistência e confiabilidade das informações em sistemas.
 
