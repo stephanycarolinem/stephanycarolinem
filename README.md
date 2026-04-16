@@ -16,7 +16,6 @@ Possuo conhecimento em SQL, Python, testes de API (Postman), BDD e metodologias 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
 
 ## 🛠️ Tecnologias e Ferramentas
 
