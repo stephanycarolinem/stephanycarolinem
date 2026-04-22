@@ -31,13 +31,6 @@ Possuo conhecimento em SQL, Python, testes de API (Postman), BDD e metodologias 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanycarolinem\&show_icons=true\&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanycarolinem\&layout=compact\&theme=default)
-
----
 
 ## 📌 Projetos
 
